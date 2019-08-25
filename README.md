@@ -12,7 +12,7 @@
 </p>
 <br />
 
-## Online Judge
+## 1. Online Judge
 
 #|国内外目前OJ(Online Judge)平台| 链接|公司采用(待完善)
 ------|------|------|------
@@ -23,11 +23,11 @@
 5|赛码|https://www.acmcoder.com/index|京东、美团
 6|amcatglobal|https://amcatglobal.aspiringminds.com/|亚马逊
 
-## 供参考的[**一些时间表（点击查看全部）**](https://github.com/elegantcoin/All_Leetcode_Q_20190610/blob/master/timeline.md)：
+## 2. 供参考的[**一些时间表（点击查看全部）**](https://github.com/elegantcoin/All_Leetcode_Q_20190610/blob/master/timeline.md)：
 
 ![](https://github.com/elegantcoin/All_Leetcode_Q_20190610/blob/master/111.png)
 
-## Companies
+## 3. Companies
 
 <table border="1">
 
