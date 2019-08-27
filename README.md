@@ -1,4 +1,4 @@
-# niuke-shuati(刷题)
+# Niuke-shuati(刷题)
 牛客网刷题数据，相比于国外的Leetcode([see also leetcode公司](https://github.com/elegantcoin/All_Leetcode_Q_20190610/blob/master/companies.md))，牛客网主要收集国内公司的面试题
 
 <p align="center">
