@@ -20,7 +20,7 @@
 2|hackerrank|https://www.hackerrank.com/dashboard|BCG、Akuna
 3|Lintcode|https://www.lintcode.com/|?
 4|牛客|https://www.nowcoder.com|拼多多、大疆、网易、腾讯
-5|赛码|https://www.acmcoder.com/index|京东、美团
+5|赛码|https://www.acmcoder.com/index|京东、美团、高通
 6|amcatglobal|https://amcatglobal.aspiringminds.com/|亚马逊
 
 ## :fire: 2. 供参考的[**一些时间表（点击查看全部）**](https://github.com/elegantcoin/All_Leetcode_Q_20190610/blob/master/timeline.md)：
